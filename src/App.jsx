@@ -1,6 +1,3 @@
-// HEllo this me ans qazzafi
-
-
 import { useEffect, useState } from 'react';
 import { InputBox } from './components';
 import currencyConverterinfo from './Hooks/currencyConverterinfo';
@@ -21,7 +18,7 @@ function App() {
   return (
     <>
       <div className="bg-white p-8 rounded-lg shadow-md max-w-md">
-        <h1 className="text-2xl font-semibold mb-4">Currency Converter</h1>
+        <h1 className="text-2xl font-semibold mb-4">Currency Converter App</h1>
         <div>
           <img
             className="w-full"
